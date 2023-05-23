@@ -1,3 +1,7 @@
 waffle/src
 waffle/node_modules
 waffle/build
+
+hardhat/artifacts
+hardhat/node_modules
+hardhat/cache
