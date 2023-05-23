@@ -43,11 +43,11 @@ describe("Verifier", () => {
 
   beforeEach(async () => {
     token = await deployContract(wallet, Verifier, [], { gasLimit: 6700000 });
-/*
+
     token.on("Scalar", (x) => {
       console.log("Scalar", x.toString());
     })
-*/
+
   });
 
   let proof = fs.readFileSync(
