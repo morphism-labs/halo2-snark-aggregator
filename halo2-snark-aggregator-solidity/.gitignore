@@ -5,4 +5,4 @@ waffle/build
 hardhat/artifacts
 hardhat/node_modules
 hardhat/cache
-hardhat/typechain-types
+# hardhat/typechain-types
